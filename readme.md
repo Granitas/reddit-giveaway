@@ -1,6 +1,6 @@
 ## About
  
-reddit-giveaway is a scrapy spider for choosing a winner for giveaways held in reddit post. It is possible to filter eligable users and comments with regex and user meta settings for quick and accurate results  
+reddit-giveaway is a scrapy spider for choosing random winners for giveaways held in reddit post. It is possible to filter eligable users and comments with regex and user meta settings for quick and accurate results  
 
 ## Requirements
 
