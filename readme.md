@@ -17,6 +17,7 @@ Optional:
 `min_c_karma` - (default: 200) minimum user comment karma to be eligible for winning (int)  
 `min_l_karma` - (default: 0) minimum user link karma to be eligible for winning (int)  
 `min_days` - (default: 30) minimum user age to be eligible for winning(int)
+`ignored_users` - User list (separated by comma) of users to ignore
 
 ## Example:
 
